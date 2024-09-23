@@ -23,7 +23,7 @@ I'm a passionate **Full Stack Web Developer** with a background in **Java** and 
 - **Junior Web Developer** with experience in building fullstack applications during my bootcamp at **Enigma** and various personal projects.
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helmiade)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](pamungkasade16@gmail.com)
 
 Feel free to browse through my repositories and reach out if you'd like to collaborate on web development projects!
