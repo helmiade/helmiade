@@ -8,11 +8,16 @@ I'm a passionate **Full Stack Web Developer** with a background in **Java** and 
 - 📚 Always learning new technologies and best practices to stay up-to-date with the web development landscape.
 
 ## 💻 My Tech Stack
-- **Languages**: Java, JavaScript, Go, PHP
-- **Frontend**: React.js, Bootstrap, Tailwind CSS
-- **Backend**: Spring Boot, REST APIs
-- **Database**: PostgreSQL, MySQL
-- **Tools**: Git, Maven, IntelliJ IDEA, VS Code
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 
 ## 🌱 What I'm Currently Learning
@@ -24,6 +29,6 @@ I'm a passionate **Full Stack Web Developer** with a background in **Java** and 
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helmiade)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](pamungkasade16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pamungkasade16@gmail.com)
 
 Feel free to browse through my repositories and reach out if you'd like to collaborate on web development projects!
